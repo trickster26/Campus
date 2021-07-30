@@ -8,3 +8,5 @@ todo 👍
 * [ ] add NPC
 * [ ] add voice
 * [ ] add sound sys
+
+contributers L @sineshX ,@anandshukla007 @trickster26
